@@ -20,7 +20,7 @@ A simple but powerful **Flutter music player** that demonstrates both **UI desig
 - **Permission Handling:**  
   Requests notification permissions using [`permission_handler`](https://pub.dev/packages/permission_handler).
 
-- **Modern UI:**
+- **Modern UI:**  
   <img src="assets/img.png" alt="Music Player UI" width="15%" />
 ---
 
