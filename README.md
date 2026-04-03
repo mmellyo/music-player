@@ -4,6 +4,7 @@ A simple but powerful **Flutter music player** that demonstrates both **UI desig
 
 ---
 
+
 ## Features
 - **Audio Playback:**  
   Play and stop music tracks using the [`just_audio`](https://pub.dev/packages/just_audio) package. Supports playback from local assets.
